@@ -1,0 +1,2 @@
+# aws-java-demo
+![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiazExZE5LbUppM1RTV0szdXB5Q0d4NitUdGZpZnd2U1VJeEFxQ3VzOXRKWUQ3elRNQWk3Q0ZkaUd1SmJ6UVBFSHBVcHZ4ZXVBcVR5OXg1Y1FWNk1Cb29nPSIsIml2UGFyYW1ldGVyU3BlYyI6InlseFNXSTNzS3pNK1A5Ny8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
